@@ -4982,6 +4982,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 39.37 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "835aae78-bb91-4e58-8e1d-786dfc67ebbf")
 		)
@@ -5456,6 +5465,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C136001"
+			(at 156.21 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "30afd7a1-3cd3-4c05-99ee-ec488bb6afba")
 		)
@@ -5538,6 +5556,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C14663"
+			(at 52.07 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "835aae78-bb91-4e58-8e1d-786dfc67ebc0")
 		)
@@ -5608,6 +5635,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25804"
+			(at 102.87 181.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "73dcd46e-29e3-40d2-b57b-ca59ddcc05a0")
 		)
@@ -5668,6 +5704,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 170.18 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C23345"
+			(at 170.18 133.604 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5804,6 +5849,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 87.63 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
+			(at 91.44 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6635,6 +6689,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C99271"
+			(at 149.86 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "da5f24fa-9e76-4632-9a82-d45fecf10a24")
 		)
@@ -6787,6 +6850,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C99271"
+			(at 149.86 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7057,6 +7129,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 128.27 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C15850"
+			(at 132.08 181.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7464,6 +7545,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C15850"
+			(at 26.67 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c237b1a8-6943-4489-9742-ffea967d777b")
 		)
@@ -7598,6 +7688,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1653"
+			(at 99.06 53.594 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fe1c7b7c-6805-48d1-a104-15f4353bd295")
 		)
@@ -7658,6 +7757,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 99.06 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1653"
+			(at 98.806 35.306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7733,6 +7841,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C130880"
+			(at 81.5975 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "291ef6d9-80c6-46b8-881b-c41c991c69b3")
 		)
@@ -7795,6 +7912,15 @@
 		)
 		(property "Description" "Two pin crystal"
 			(at 90.17 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C620155"
+			(at 87.376 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7931,6 +8057,15 @@
 		)
 		(property "Description" "Schottky diode"
 			(at 87.63 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C130880"
+			(at 90.17 169.2274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8200,6 +8335,15 @@
 		)
 		(property "Description" "Multiprotocol BLE/ANT/2.4 GHz/802.15.4 Cortex-M4F SoC, nRF52840 module"
 			(at 59.69 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5118826"
+			(at 61.8841 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8511,6 +8655,15 @@
 		)
 		(property "Description" "600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5"
 			(at 116.84 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C51118"
+			(at 116.84 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
