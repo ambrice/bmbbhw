@@ -521,6 +521,10 @@
       {
         "netclass": "Power",
         "pattern": "/VHI"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+BATT"
       }
     ]
   },
@@ -641,6 +645,10 @@
     [
       "a700f66c-e090-41fe-b3af-2b734e9c5ce6",
       "Root"
+    ],
+    [
+      "f259031e-fbfa-4131-913f-dd9e1b6f4990",
+      "components"
     ]
   ],
   "text_variables": {}
