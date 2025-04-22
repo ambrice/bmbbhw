@@ -1656,7 +1656,7 @@
 				)
 			)
 		)
-		(symbol "RF_Module:MDBT50Q-1MV2"
+		(symbol "RF_Module:MDBT50Q-P1MV2"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1668,7 +1668,7 @@
 					)
 				)
 			)
-			(property "Value" "MDBT50Q-1MV2"
+			(property "Value" "MDBT50Q-P1MV2"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -1721,7 +1721,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "MDBT50Q-1MV2_0_1"
+			(symbol "MDBT50Q-P1MV2_0_1"
 				(rectangle
 					(start -17.78 43.18)
 					(end 17.78 -43.18)
@@ -1734,7 +1734,7 @@
 					)
 				)
 			)
-			(symbol "MDBT50Q-1MV2_1_1"
+			(symbol "MDBT50Q-P1MV2_1_1"
 				(pin power_in line
 					(at 0 -45.72 90)
 					(length 2.54)
@@ -8671,7 +8671,7 @@
 		)
 	)
 	(symbol
-		(lib_id "RF_Module:MDBT50Q-1MV2")
+		(lib_id "RF_Module:MDBT50Q-P1MV2")
 		(at 59.69 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8689,7 +8689,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MDBT50Q-1MV2"
+		(property "Value" "MDBT50Q-P1MV2"
 			(at 61.8841 128.27 0)
 			(effects
 				(font

@@ -758,7 +758,7 @@
 		(path "/f259031e-fbfa-4131-913f-dd9e1b6f4990/991f9ddc-b433-433f-a8cc-122f9924e216")
 		(sheetname "components")
 		(sheetfile "components.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -2.05 2.26)
 			(end -2.05 4)
@@ -5096,7 +5096,7 @@
 		(path "/f259031e-fbfa-4131-913f-dd9e1b6f4990/28fb6baf-d767-480b-a34d-e8705fe5669c")
 		(sheetname "components")
 		(sheetfile "components.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -2.05 2.26)
 			(end -2.05 4)
@@ -6794,7 +6794,7 @@
 		(path "/03f14cb3-ed8c-49e8-a42d-4d2620e73f12")
 		(sheetname "Root")
 		(sheetfile "bmbbmcp.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -1.33 -1.33)
 			(end 0 -1.33)
@@ -6946,7 +6946,7 @@
 			(uuid "0284d75f-a3f0-48d4-88e6-e0ec2be9dfdc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.Fab")
 			(uuid "85e884b6-2eff-47e7-9f87-a0c2106f49a5")
 			(effects
@@ -7033,7 +7033,7 @@
 				)
 			)
 		)
-		(property "Value" "MDBT50Q-1MV2"
+		(property "Value" "MDBT50Q-P1MV2"
 			(at -3 -0.05 180)
 			(layer "F.Fab")
 			(uuid "de712e1c-dcf9-4529-a5ca-47fcabc5ff86")
@@ -8770,7 +8770,7 @@
 		(path "/f259031e-fbfa-4131-913f-dd9e1b6f4990/43f8b789-a740-4e73-b964-1e326236c823")
 		(sheetname "components")
 		(sheetfile "components.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole exclude_from_pos_files)
 		(fp_line
 			(start -2.05 2.26)
 			(end -2.05 4)
@@ -12554,14 +12554,6 @@
 		(layer "F.Cu")
 		(net 2)
 		(uuid "358f25d6-506c-4e17-b0fb-1c0df7bb81b0")
-	)
-	(segment
-		(start 156.650002 96.999999)
-		(end 156.650002 97.749997)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 2)
-		(uuid "3baf903a-94f5-4d56-b579-d5ba79030f0c")
 	)
 	(segment
 		(start 124.815 97.565)
